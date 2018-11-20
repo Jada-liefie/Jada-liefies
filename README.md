@@ -5,7 +5,7 @@
  <h2> WHY I AM GRATEFUL FOR MY MOTHER AND FATHER </h2>
     <link rel='stylesheet' type='text/css' href= 'index.css'>
 	
-	<body>
+	
 	<a href="whyIamgratefulformyparents">Home</a> | <a href="pictures.html">Pictures</a> 	
 <p>
    Today I am grateful for my parents beacause they rasied me to be the amazing young lady that I am today.
@@ -43,7 +43,7 @@ My parents tuaght me alot of life leasons that I will carry with me for the rest
    HUGS AND KISSES BYES
    </p>
    
-   </body>
+  
    
    <footer></footer>
 </html>
