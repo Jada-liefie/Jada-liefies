@@ -1,8 +1,6 @@
 # why-I-am-grateful-for-my-parents.html
  <html>
-       <head>
-	         
-	   </head> 
+      
 
  <h2> WHY I AM GRATEFUL FOR MY MOTHER AND FATHER </h2>
     <link rel='stylesheet' type='text/css' href= 'index.css'>
