@@ -1,7 +1,7 @@
 # why-I-am-grateful-for-my-parents.html
  <html>
        <head>
-	         <title> Why I am grateful for my parents </title> 
+	         
 	   </head> 
 
  <h2> WHY I AM GRATEFUL FOR MY MOTHER AND FATHER </h2>
