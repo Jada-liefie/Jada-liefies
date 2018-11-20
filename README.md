@@ -46,4 +46,4 @@ My parents tuaght me alot of life leasons that I will carry with me for the rest
   
    
    <footer></footer>
-</html>
+
