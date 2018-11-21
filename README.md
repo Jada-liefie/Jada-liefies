@@ -8,7 +8,7 @@
 	
 	<a href="whyIamgratefulformyparents">Home</a> | <a href="pictures.html">Pictures</a> 	
 <p>
-   Today I am grateful for my parents beacause they rasied me to be the amazing young lady that I am today.
+   Today I am grateful for my parents because they rasied me to be the amazing young lady that I am today.
    They believed in me ,even when I didnt believe I could achive my goals ,they were there and supported me through everything and encouraged me to keep trying even when I lost hope in myself,and I am also grateful that they pushed me to be the best person I could be.
    If they didn't do that for me I wouldn't have tried new things to challenge myself and set new goals that I could achive and I wouldnt be the person I am today.
    My parents were not just my parents ,they are also my best friends.They are ones that made me laugh when I was feeling down ,they comforted me when i needed it and although we have our ups and down ,its normal but nothing in this world will break my bond between my parents and I and I am forever grateful for them.
